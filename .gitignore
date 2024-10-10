@@ -1,0 +1,11 @@
+.idea
+
+*.class
+/target
+
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+/**/.DS_Store

@@ -1,2 +1,2 @@
 # ide-test2
-A dummy, test-repo 
+Some dummy test using stuff from `ch.chm.test:ide-test`. 
